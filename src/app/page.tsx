@@ -131,7 +131,7 @@ export default function Home() {
                 </Button>
             </div>
              <div className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-2xl shadow-primary/10">
-                <Image src="https://placehold.co/600x800/1A237E/FFD700" alt="Ebook Preview" layout="fill" objectFit="cover" className="transform hover:scale-105 transition-transform duration-500 ease-in-out" data-ai-hint="digital book abstract" />
+                <Image src="https://placehold.co/600x800.png" alt="Ebook Preview" layout="fill" objectFit="cover" className="transform hover:scale-105 transition-transform duration-500 ease-in-out" data-ai-hint="digital book abstract" />
                 <div className="absolute inset-0 bg-gradient-to-t from-background/50 to-transparent"></div>
                 <div className="absolute bottom-4 left-4 text-white">
                     <BookOpen className="inline-block h-8 w-8 text-primary mb-2" />
