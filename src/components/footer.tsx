@@ -18,7 +18,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-border/40 pt-4 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Ghost King Industries. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} GodsIMiJ AI Solutions 2025 Sovereign Flame Nation the GodsIMiJ Empire. All rights reserved.</p>
         </div>
       </div>
     </footer>
